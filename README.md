@@ -385,25 +385,5 @@ Chat-with-a-database-using-AI/
     └── results.png
 ```
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- [n8n](https://n8n.io/) - Workflow automation platform
-- [Groq](https://groq.com/) - Fast AI inference
-- [PostgreSQL](https://www.postgresql.org/) - Powerful open-source database
-- [Online Retail II Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II) - Sample dataset
-
-## 📧 Contact
-
-For questions or support, please open an issue in this repository.
-
----
-
-**⭐ If you found this project helpful, please give it a star!**
